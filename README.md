@@ -6,3 +6,4 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 **Incluid debajo el nombre de los miembros del grupo:**
 - [Diego García Muñoz](https://github.com/dgm1003)
 - [Ismael Franco Hernando](https://github.com/ifh1001)
+- [Ignacio Dávila García](https://github.com/idg0015)
